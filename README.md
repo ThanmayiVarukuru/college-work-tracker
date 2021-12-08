@@ -9,4 +9,4 @@ Project idea: Every student will have number of tasks assigned such as topics re
 Project descriptions :  The core idea of my project is to make life easier for students. This project will track students information such as examination details, fee payment, job interviews, trainings and other college related tasks and help them to complete the task on time. To track the details mentioned above we will use Azure boards and Azure DevOps .To send notifications for students we will use Notification Hub.
 
 
-Demo of my project :
+
